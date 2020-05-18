@@ -17,8 +17,8 @@ PRODUCT_MODEL := POCO F1
 PRODUCT_MANUFACTURER := Xiaomi
 
 # Build Official
-CUSTOM_BUILD_TYPE := OFFICIAL
-EVO_DONATE_URL := https://www.paypal.me/mukul2259
+CUSTOM_BUILD_TYPE := PERSONAL
+EVO_DONATE_URL := https://www.paypal.me/akashk07
 EVO_MAINTAINER := Akash
 EVO_SUPPORT_URL := https://t.me/EvolutionXBeryllium
 
