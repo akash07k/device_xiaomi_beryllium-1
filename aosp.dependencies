@@ -1,13 +1,13 @@
 [
   {
     "remote": "github",
-    "repository": "mukul2259/device_xiaomi_sdm845-common",
+    "repository": "PainKiller3/device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common"
     "branch": "ten"
   },
   {
     "remote": "github",
-    "repository": "mukul2259/stealth_beryllium",
+    "repository": "PainKiller3/kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845"
     "branch": "ten"
   }
